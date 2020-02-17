@@ -550,6 +550,8 @@ textarea::placeholder {
 
 .download {
     padding: 73px 0 79px;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 .download__wrap {
@@ -639,6 +641,8 @@ textarea::placeholder {
 
 .watch {
     padding: 114px 0 160px;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 .watch__wrap {
